@@ -1,4 +1,5 @@
-# Stress Detection using Facial-Emotion-Recognition
+# Facial-Emotion-Recognition using Mchine Learning
+
 Stress Detection Using Facial Recognition involves analyzing a person’s facial expressions, micro-expressions, and sometimes physiological indicators (like skin color changes) to assess signs of stress. This builds upon Facial Emotion Recognition (FER) but focuses specifically on identifying stress-related cues.
 
 🔍 How It Works:
@@ -26,9 +27,8 @@ Pupil dilation (if camera quality allows)
 
 Classification:
 
-A machine learning or deep learning model (e.g., SVM, CNN, LSTM) classifies these features as "stressed" or "non-stressed."
+A machine learning or deep learning model (e.g., SVM, CNN, LSTM) classifies these features as Emotions like sad,angry,neutral,fear
 
-Often trained on labeled datasets with varying stress levels.
 
 Optional Additions:
 
