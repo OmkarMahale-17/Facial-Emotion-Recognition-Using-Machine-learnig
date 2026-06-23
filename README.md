@@ -1,4 +1,4 @@
-# Facial-Emotion-Recognition using Mchine Learning
+# Facial-Emotion-Recognition using Machine Learning
 
 Stress Detection Using Facial Recognition involves analyzing a person’s facial expressions, micro-expressions, and sometimes physiological indicators (like skin color changes) to assess signs of stress. This builds upon Facial Emotion Recognition (FER) but focuses specifically on identifying stress-related cues.
 
